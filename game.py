@@ -2,6 +2,12 @@
 
 import random
 
+#import os
+#from dotenv import load_dotenv
+
+#load_dotenv()
+#player_name = input("Hi! Please enter your name:")
+
 print("-------------------")
 print("Welcome 'Player One' to my Rock-Paper-Scissors game...")
 print("-------------------")
